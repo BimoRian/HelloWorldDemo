@@ -1,2 +1,0 @@
-# HelloWorldDemo
-For Tutorial Jenkins 
